@@ -10,3 +10,13 @@ console.log(total)
 multiplas linhas
 muitas 
 */ 
+
+//Declarando funções - Sintaxe de uma função.
+
+function soma(a,b){
+    console.log(a+b);
+    return a + b; //15
+
+}
+
+soma(10,5);
