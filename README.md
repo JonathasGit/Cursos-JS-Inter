@@ -5,13 +5,26 @@
  
  <h3 align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></h3>
  <hr>
+ 
 
  <h3 align="center">⚒️Quais cursos vamos abordar:⚒️ </h3><hr>
 
 
-1 - IDE Instalação e Configuração (Visual Studio Code)
+1 - IDE Instalação e Configuração (Visual Studio Code) 
 
-2 - Introdução ao JavaScript
+<hr>
+2 - Introdução ao JavaScript<br>
+Módulos :<br>
+✅1- O que é JavaScript?<br>
+Apresentação do Curso; <br>
+História, Evolução e Aplicações<br>
+<a href="https://drive.google.com/file/d/1OewERdQ1_0xVRj_d04PCCBxOS2qRZmwe/view">Slide 1</a> <br>
+<a href="https://drive.google.com/file/d/18sCfJ8MVRShhbViehk79-4ca-lQQ4fqY/view">Slide 2</a> <br>
+
+
+✅2- Recursos
+<hr>
+
 
 3 - Sintaxe e Operadores
 
