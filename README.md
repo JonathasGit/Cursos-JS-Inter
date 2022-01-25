@@ -9,30 +9,30 @@
  <h3 align="center">⚒️Quais cursos vamos abordar:⚒️ </h3><hr>
 
 
-IDE Instalação e Configuração (Visual Studio Code)
+1 - IDE Instalação e Configuração (Visual Studio Code)
 
-Introdução ao JavaScript
+2 - Introdução ao JavaScript
 
-Sintaxe e Operadores
+3 - Sintaxe e Operadores
 
-Variáveis e Tipos
+4 - Variáveis e Tipos
 
+5 - Funções
 
-Funções
+6 - Coleções
 
-Coleções
+7 - Debugging e Error Handling
 
+8 - Javascript Assíncrono
 
-Debugging e Error Handling
+9 - Orientação a objetos
 
-Javascript Assíncrono
+10 - Map, Filter e Reduce
 
-Orientação a objetos
-
-Map, Filter e Reduce
-
-Manipulando a D.O.M. com JavaScript
+11 - Manipulando a D.O.M. com JavaScript
 
 
-Cursos Ministrados pela professora <a href="https://github.com/stebsnusch">Stephany Nusch</a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+Cursos Ministrados pela professora <a href="https://github.com/stebsnusch">Stephany Nusch</a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><br>
+
+Os cursos então na sequência do Bootccamp.
 
