@@ -10,7 +10,7 @@
  <h3 align="center">⚒️Quais cursos vamos abordar:⚒️ </h3><hr>
 
 
-<h2 align="center">:pushpin::pushpin:1 - IDE Instalação e Configuração (Visual Studio Code):pushpin::pushpin:</h2> 
+<h2 align="center">:pushpin::pushpin: 1 - IDE Instalação e Configuração (Visual Studio Code):pushpin::pushpin:</h2> 
 
 <hr>
 
@@ -20,7 +20,7 @@ Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br><hr>
 
 
-<h2 align="center"> :pushpin::pushpin:2 - Introdução ao JavaScript :pushpin::pushpin:<br></h2><hr>
+<h2 align="center"> :pushpin::pushpin: 2 - Introdução ao JavaScript :pushpin::pushpin:<br></h2><hr>
 
 
 Módulos :<br>
@@ -68,23 +68,77 @@ Slides; <br>
 <hr>
 
 
-3 - Sintaxe e Operadores
+<h2 align="center">:pushpin::pushpin: 3 - Sintaxe e Operadores :pushpin::pushpin: </h2><hr>
 
-4 - Variáveis e Tipos
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
 
-5 - Funções
+<h2 align="center">:pushpin::pushpin: 4 - Variáveis e Tipos :pushpin::pushpin: </h2><hr>
 
-6 - Coleções
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
 
-7 - Debugging e Error Handling
 
-8 - Javascript Assíncrono
+<h2 align="center">:pushpin::pushpin: 5 - Funções :pushpin::pushpin: </h2><hr>
 
-9 - Orientação a objetos
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
 
-10 - Map, Filter e Reduce
 
-11 - Manipulando a D.O.M. com JavaScript
+<h2 align="center">:pushpin::pushpin: 6 - Coleções :pushpin::pushpin: </h2><hr>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
+
+
+<h2 align="center">:pushpin::pushpin: 7 - Debugging e Error Handling :pushpin::pushpin: </h2><hr>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
+
+<h2 align="center">:pushpin::pushpin: 8 - Javascript Assíncrono :pushpin::pushpin: </h2><hr>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
+
+<h2 align="center">:pushpin::pushpin: 9 - Orientação a objetos :pushpin::pushpin: </h2><hr>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
+
+<h2 align="center">:pushpin::pushpin: 10 - Map, Filter e Reduce :pushpin::pushpin: </h2><hr>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
+
+<h2 align="center">:pushpin::pushpin: 11 - Manipulando a D.O.M. com JavaScript :pushpin::pushpin:  </h2><hr>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
 
 
 Cursos Ministrados pela professora <a href="https://github.com/stebsnusch">Stephany Nusch</a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><br>
