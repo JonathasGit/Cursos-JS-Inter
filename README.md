@@ -26,18 +26,45 @@ Aqui vai o que contém nesse curso<br><hr>
 Módulos :<br>
 
 
-✅1- O que é JavaScript?:pushpin:<br>
+✅:one: O que é JavaScript?:pushpin:<br>
+
 Apresentação do Curso; <br>
-História, Evolução e Aplicações<br>
-<a href="https://drive.google.com/file/d/1OewERdQ1_0xVRj_d04PCCBxOS2qRZmwe/view">Slide 1</a> <br>
-<a href="https://drive.google.com/file/d/18sCfJ8MVRShhbViehk79-4ca-lQQ4fqY/view">Slide 2</a> <br>
+História, Evolução e Aplicações;<br>
+<a href="https://drive.google.com/file/d/1OewERdQ1_0xVRj_d04PCCBxOS2qRZmwe/view">Slide 1</a>; <br>
+<a href="https://drive.google.com/file/d/18sCfJ8MVRShhbViehk79-4ca-lQQ4fqY/view">Slide 2</a>; <br>
 
 
-✅2- Recursos Básicos da linguagem<br>
+✅:two: Recursos Básicos da linguagem: :pushpin: <br>
 
 Manipulando um arquivo;<br>
 Funções;<br>
-Slides <br>
+Slides; <br>
+
+✅:three: Console: :pushpin: <br>
+
+Executando um arquivo .js <br>
+
+✅ :four: JavaScript em uma página da web: :pushpin: <br>
+
+Estrutura de projeto; <br>
+Inserindo JavaScript numa página HTML; <br>
+Interagindo com os elemnentos DOM; <br>
+Slides; <br>
+
+✅ :five: Colocando em prática: :pushpin: <br>
+
+Criando um contador; <br>
+Desafio: To-do List; <br>
+Slides;<br>
+GitHub<br>
+
+✅ :six: Mercado de trabalho: :pushpin: <br>
+
+Framwworks; <br>
+Mercado de trabalho; <br>
+Slides; <br>
+
+
 <hr>
 
 
