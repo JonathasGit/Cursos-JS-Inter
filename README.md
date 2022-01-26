@@ -10,19 +10,34 @@
  <h3 align="center">⚒️Quais cursos vamos abordar:⚒️ </h3><hr>
 
 
-1 - IDE Instalação e Configuração (Visual Studio Code) 
+<h2 align="center">:pushpin::pushpin:1 - IDE Instalação e Configuração (Visual Studio Code):pushpin::pushpin:</h2> 
 
 <hr>
-2 - Introdução ao JavaScript<br>
+
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br>
+Aqui vai o que contém nesse curso<br><hr>
+
+
+<h2 align="center"> :pushpin::pushpin:2 - Introdução ao JavaScript :pushpin::pushpin:<br></h2><hr>
+
+
 Módulos :<br>
-✅1- O que é JavaScript?<br>
+
+
+✅1- O que é JavaScript?:pushpin:<br>
 Apresentação do Curso; <br>
 História, Evolução e Aplicações<br>
 <a href="https://drive.google.com/file/d/1OewERdQ1_0xVRj_d04PCCBxOS2qRZmwe/view">Slide 1</a> <br>
 <a href="https://drive.google.com/file/d/18sCfJ8MVRShhbViehk79-4ca-lQQ4fqY/view">Slide 2</a> <br>
 
 
-✅2- Recursos
+✅2- Recursos Básicos da linguagem<br>
+
+Manipulando um arquivo;<br>
+Funções;<br>
+Slides <br>
 <hr>
 
 
