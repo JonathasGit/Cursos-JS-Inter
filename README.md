@@ -1,4 +1,4 @@
-<h1 align="center">🚀🚀🚧Cursos do Bootcamp Inter Frontend Developer🚧🚀🚀</h1>
+<h1 align="center">🚀🚧Cursos do Bootcamp Inter Frontend Developer🚧🚀</h1>
 
 
  <h3 align="center">⚒️Tecnologias que vamos abordar:⚒️ </h3>
