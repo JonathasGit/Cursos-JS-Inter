@@ -43,6 +43,7 @@ Slides; <br>
 ✅:three: Console: :pushpin: <br>
 
 Executando um arquivo .js <br>
+<A href="https://drive.google.com/file/d/1OOkZSQhsVcassphzKP0LhecqvpRPXexO/view"> Slides;</a> <br>
 
 ✅ :four: JavaScript em uma página da web: :pushpin: <br>
 
