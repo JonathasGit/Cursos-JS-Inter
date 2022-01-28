@@ -56,8 +56,8 @@ Interagindo com os elemnentos DOM; <br>
 
 Criando um contador; <br>
 Desafio: To-do List; <br>
-Slides;<br>
-GitHub<br>
+<a href="https://drive.google.com/file/d/1NFh_RDX-R7Y2MgwUYutpplvNZGCDio7P/view">Slides;</a><br>
+<a href="https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javascript">GitHub</a><br>
 
 ✅ :six: Mercado de trabalho: :pushpin: <br>
 
