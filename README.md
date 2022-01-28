@@ -50,7 +50,7 @@ Executando um arquivo .js <br>
 Estrutura de projeto; <br>
 Inserindo JavaScript numa página HTML; <br>
 Interagindo com os elemnentos DOM; <br>
-Slides; <br>
+<a href="https://drive.google.com/file/d/1WIFDplD9a2rZdkeXRW1TggbL_HQRuNmH/view"> Slides;</a> <br>
 
 ✅ :five: Colocando em prática: :pushpin: <br>
 
