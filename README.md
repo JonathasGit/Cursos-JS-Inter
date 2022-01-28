@@ -63,7 +63,7 @@ Desafio: To-do List; <br>
 
 Framwworks; <br>
 Mercado de trabalho; <br>
-Slides; <br>
+<a href="https://drive.google.com/file/d/1vxqzu7Ds3AvAT3fqopuJb74b7dZv-bai/view">Slides; </a><br>
 
 
 <hr>
