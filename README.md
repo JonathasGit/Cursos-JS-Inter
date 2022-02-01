@@ -61,10 +61,10 @@ Desafio: To-do List; <br>
 
 ✅ :six: Mercado de trabalho: :pushpin: <br>
 
-Framwworks; <br>
+Frameworks; <br>
 Mercado de trabalho; <br>
 <a href="https://drive.google.com/file/d/1vxqzu7Ds3AvAT3fqopuJb74b7dZv-bai/view">Slides; </a><br>
-
+🎯 Certificado : 🚧Em andamento.🚧
 
 <hr>
 
