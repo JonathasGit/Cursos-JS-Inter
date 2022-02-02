@@ -65,7 +65,10 @@ Frameworks; <br>
 Mercado de trabalho; <br>
 <a href="https://drive.google.com/file/d/1vxqzu7Ds3AvAT3fqopuJb74b7dZv-bai/view">Slides; </a><br>
 
-🎯 Certificado : 🚧Em andamento.🚧
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+
+![image](https://user-images.githubusercontent.com/57269883/152086871-a545159b-63db-4c9d-9151-c65f169ae718.png)
+
 
 <hr>
 
