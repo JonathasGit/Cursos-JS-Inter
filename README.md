@@ -135,11 +135,23 @@ Aqui vai o que contém nesse curso<br><hr>
 
 <h2 align="center">:pushpin::pushpin: 9 - Orientação a objetos :pushpin::pushpin: </h2><hr>
 
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
 
+Módulos :<br>
+
+✅:pushpin::pushpin::one: Compreendendo Orientação a Objetos :pushpin:<br>
+
+Apresentação do curso; <br>
+Paradigmas e Pilares; <br>
+
+✅:pushpin::pushpin::two: Orientação a Objetos em JavaScript :pushpin:<br>
+
+Protótipos e Classes; <br>
+Atividade prática;<br>
+
+
+
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 <h2 align="center">:pushpin::pushpin: 10 - Map, Filter e Reduce :pushpin::pushpin: </h2><hr>
 
