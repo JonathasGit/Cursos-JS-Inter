@@ -64,6 +64,7 @@ Desafio: To-do List; <br>
 Frameworks; <br>
 Mercado de trabalho; <br>
 <a href="https://drive.google.com/file/d/1vxqzu7Ds3AvAT3fqopuJb74b7dZv-bai/view">Slides; </a><br>
+
 🎯 Certificado : 🚧Em andamento.🚧
 
 <hr>
@@ -71,10 +72,22 @@ Mercado de trabalho; <br>
 
 <h2 align="center">:pushpin::pushpin: 3 - Sintaxe e Operadores :pushpin::pushpin: </h2><hr>
 
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Módulos :<br>
+
+
+✅:one: Operadores :pushpin:<br>
+
+Apresentação do curso; <br>
+Operadores; <br>
+
+✅:two: Atividade prática :pushpin:<br>
+
+Explicando a atividade; <br>
+Atividade prática;<br>
+
+🎯 Certificado : 🚧Em andamento.🚧
+
+<hr>
 
 <h2 align="center">:pushpin::pushpin: 4 - Variáveis e Tipos :pushpin::pushpin: </h2><hr>
 
