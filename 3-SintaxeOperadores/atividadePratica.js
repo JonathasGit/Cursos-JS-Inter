@@ -4,7 +4,7 @@
      const segundaFrase = criaSegundaFrase (num1, num2);
 
      return primeiraFrase + segundaFrase;
-     return "${primeiraFrase}${segundaFrase}";
+     return `${primeiraFrase}${segundaFrase}`;
      /*const saoIguais = num1 === num2; // Comparando, se verdadeiro true.
      const soma = num1 + num2; */
 
@@ -27,7 +27,7 @@
          saoIguais = 'não'; 
      }
      //return "Os números " + num1 + "e" + num2 + saoIguais + " são iguais." // Primeira frase
-     return 'Os números ${num1} e ${num2} ${saoIguais} são iguais.'; // Retorna errado.
+     return `Os números ${num1} e ${num2} ${saoIguais} são iguais.`; // Retorna errado.
        }
 
  function criaSegundaFrase(num1, num2){
@@ -45,7 +45,7 @@
      }
 
      //return "Sua soma é " + soma + ", que é " + resultado10 + "que 10  " + resultado20 + "que 20. "
-     return 'Sua soma é ${soma}, que é {reultado10} que 10 e ${resultado20} que 20.';
+     return `Sua soma é ${soma}, que é ${resultado10} que 10 e ${resultado20} que 20.`;
  } 
 
  console.log(comparaNumeros(10,8)); // Chamando a função 
