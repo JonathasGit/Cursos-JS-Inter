@@ -163,10 +163,25 @@ Aqui vai o que contém nesse curso<br><hr>
 
 <h2 align="center">:pushpin::pushpin: 11 - Manipulando a D.O.M. com JavaScript :pushpin::pushpin:  </h2><hr>
 
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+
+:pushpin::pushpin:Entendendo o D.O.M:pushpin::pushpin:
+
+- Apresentação do curso
+- O que é D.O.M E D.O.M vs B.O.M 
+
+:pushpin::pushpin:Selecionando elementos:pushpin::pushpin:
+
+- Métodos
+
+:pushpin::pushpin:Trabalhando com estilos:pushpin::pushpin:
+
+- Trabalhando com estilos
+
+:pushpin::pushpin:Eventos:pushpin::pushpin:
+
+- Tipos e Acionando eventos
+- Atividade Prática
+><hr>
 
 
 
