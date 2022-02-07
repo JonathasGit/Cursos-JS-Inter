@@ -17,7 +17,9 @@
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 <h2 align="center"> :pushpin::pushpin: 2 - Introdução ao JavaScript :pushpin::pushpin:<br></h2><hr>
@@ -97,7 +99,9 @@ Atividade prática;<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 <h2 align="center">:pushpin::pushpin: 5 - Funções :pushpin::pushpin: </h2><hr>
@@ -105,7 +109,9 @@ Aqui vai o que contém nesse curso<br><hr>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 <h2 align="center">:pushpin::pushpin: 6 - Coleções :pushpin::pushpin: </h2><hr>
@@ -113,7 +119,9 @@ Aqui vai o que contém nesse curso<br><hr>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 
@@ -122,7 +130,9 @@ Aqui vai o que contém nesse curso<br><hr>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 <h2 align="center">:pushpin::pushpin: 8 - Javascript Assíncrono :pushpin::pushpin: </h2><hr>
@@ -130,7 +140,9 @@ Aqui vai o que contém nesse curso<br><hr>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 <h2 align="center">:pushpin::pushpin: 9 - Orientação a objetos :pushpin::pushpin: </h2><hr>
@@ -158,8 +170,10 @@ Atividade prática;<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br><hr>
+Aqui vai o que contém nesse curso<br>
 
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 <h2 align="center">:pushpin::pushpin: 11 - Manipulando a D.O.M. com JavaScript :pushpin::pushpin:  </h2><hr>
 
@@ -181,7 +195,10 @@ Aqui vai o que contém nesse curso<br><hr>
 
 - Tipos e Acionando eventos
 - Atividade Prática
-><hr>
+<br>
+
+<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<hr>
 
 
 
