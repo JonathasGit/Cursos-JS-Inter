@@ -1,0 +1,36 @@
+body {	
+	color: black;
+	margin: 0;
+	
+}
+
+body.dark-mode {
+	background-color: #000401;
+	color: #e5e8e8;
+}
+
+main {
+	/*height: 100vh;*/
+	/*width: 100%; */
+	display: flex; 
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+
+footer {
+	width: 100%;
+	background-color: #4e545c;
+	padding: 16px;
+	color: #e5e8e8;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	font-weight: 400;
+}
+
+footer.dark-mode {
+	background-color: #8d9797;
+	color: #000401;
+}
