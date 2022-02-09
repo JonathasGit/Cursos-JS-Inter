@@ -197,7 +197,7 @@ Aqui vai o que contém nesse curso<br>
 - Atividade Prática
 <br>
 
-<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<p align="center">🎯🎯🎯 Certificado: em andamento 🎯🎯🎯</p>
 <hr>
 
 
