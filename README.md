@@ -116,10 +116,16 @@ Aqui vai o que contém nesse curso<br>
 
 <h2 align="center">:pushpin::pushpin: 6 - Coleções :pushpin::pushpin: </h2><hr>
 
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
-Aqui vai o que contém nesse curso<br>
+:pushpin: Map:pushpin:
+
+- Apresentação do curso
+- Estrutura, Métodos e Map vs Objeto
+
+:pushpin: Set:pushpin:
+
+- Estrutura, Métodos e Set vs Array
+- Atividade prática
+
 <p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
 <hr>
 
