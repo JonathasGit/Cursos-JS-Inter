@@ -100,7 +100,7 @@ Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
 Aqui vai o que contém nesse curso<br>
-<p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+<p align="center">🎯🎯🎯 Certificado: Em andamento🎯🎯🎯</p>
 <hr>
 
 
