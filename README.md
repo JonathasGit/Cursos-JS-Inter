@@ -127,6 +127,9 @@ Aqui vai o que contém nesse curso<br>
 - Atividade prática
 
 <p align="center">🎯🎯🎯 Certificado: 🎯🎯🎯</p>
+
+![image](https://user-images.githubusercontent.com/57269883/154184241-bf80f6de-c032-4984-98db-a7cc9c439189.png)
+
 <hr>
 
 
